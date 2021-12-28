@@ -1,3 +1,5 @@
+from anime2021.anime inport Ashape, Atext, Aimage
+
 class AImage(AShape):
     color: any
 
